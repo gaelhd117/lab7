@@ -45,3 +45,9 @@ Here are Steps 4-9 from the Timing Task and Baseline
 
 - Originally did the same thing as Step 6, I just clicked on Testing, then went on Run Test
   
+## Step 9
+
+![Image](Step9LabReport4.png)
+
+- After changing the code I then used git commit and git push to save the changes into my GitHub account
+Here are the keys I entered: git commit -a -m "Change made", git push 
