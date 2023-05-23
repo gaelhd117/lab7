@@ -35,6 +35,11 @@ Here are Steps 4-9 from the Timing Task and Baseline
  - Once I showed that there was a problem with the code in ListExamples.java, I edited the code in ListExamples.java, all I needed to do was change the index2 and change it to index 1 and then save the changes made: index1 += 1; 
  - Here are the keys I pressed for this: <**4**>, <**3**>, <**j**>, <**e**>, <**x**>, <**i**>, <**2**>, <**esc**>, <**:**>, <**w**>, <**q**>, <**enter**>
 
+- <**43j**> essentially repeats the down key 43 times
+- <**e**> just goes to the end of the next word
+- <**x**> deletes the character that the cursor is on
+- <**i**> lets me type out what I want
+- <**:wq**> saves and exits out of vim
 
 ## Step 8
   
