@@ -28,7 +28,7 @@ Here are Steps 4-9 from the Timing Task and Baseline
 
 - The first time I did this no keys were pressed instead I just clicked on Testing, then went on Run Test (I believe this is the wrong way to do it but I am putting it here just to be safe)
 
-- A faster way that I figured out how to run the tests is by typing `bash test.sh` which makes it easier to do instead of typing out the whole code, below is a screenshot of me doing it like so
+- A faster way that I figured out how to run the tests is by typing `<bash test.sh>` which makes it easier to do instead of typing out the whole code, below is a screenshot of me doing it like so
 
 ![Image](newStep6LabReport4.png)
   
